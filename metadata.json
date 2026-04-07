@@ -1,0 +1,7 @@
+{
+  "name": "Couple Caricature Creator",
+  "description": "Create hilarious caricatures of a husband and wife by uploading their photos. Features AI-powered caricature generation and funny captions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
